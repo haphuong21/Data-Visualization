@@ -1,4 +1,4 @@
-# This is repo for Data Visualization Class
+# Credit Scoring using Logistic Regression
 
 Credit is a very important product in banking and financial institutions. There is
 always a customer in need of a loan. Since Loans are always accompanied by risks, it
